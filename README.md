@@ -2,9 +2,9 @@
 
 
 ### Hi there! 👋
-  I'm a junior developer who studied Java and Spring Framework.
-  This is storage of what I studied and the projects I worked on.
-  Even if it's slow, I want to continue to work hard and grow.
+  I'm a junior developer who studied Java and Spring Framework. <br>
+  This is storage of what I studied and the projects I worked on. <br>
+  Even if it's slow, I want to continue to work hard and grow. <br>
 ✨ Thank you ✨
 
 
