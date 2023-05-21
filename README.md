@@ -2,9 +2,9 @@
 
 
 ### Hi there! 👋
-  I'm a junior developer who studied Java and Spring Framework. <br>
-  This is storage of what I studied and the projects I worked on. <br>
-  Even if it's slow, I want to continue to work hard and grow. <br>
+  I'm a junior developer learning Java and Spring Framework. <br>
+  This is a storage of what I studied and the projects I worked on. <br>
+  Even if it's slow, I want to be a developer who continues to try and grow. <br>
 ✨ Thank you ✨
 
 
@@ -16,7 +16,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=Git&logoColor=white&style=flat-square) ![Notion](https://img.shields.io/badge/Notion-000000.svg?logo=Notion&logoColor=white&style=flat-square)
   
 #### 📱 **Contact**
-<a href="https://blog.naver.com/lacvert-" target="_blank"><img src="https://img.shields.io/badge/DevBlog-F06B66?style=flat-square&logo=Blogger&logoColor=white"/></a> <a href="mailto:lacvert3727@naver.com" target="_blank"><img src="https://img.shields.io/badge/lacvert3727@naver.com-8B89CC?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://blog.naver.com/lacvert-" target="_blank"><img src="https://img.shields.io/badge/Dev_Blog-F06B66?style=flat-square&logo=Blogger&logoColor=white"/></a> <a href="mailto:lacvert3727@naver.com" target="_blank"><img src="https://img.shields.io/badge/lacvert3727@naver.com-8B89CC?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
   
 
