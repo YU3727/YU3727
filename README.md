@@ -11,7 +11,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=Git&logoColor=white&style=flat-square) ![Notion](https://img.shields.io/badge/Notion-000000.svg?logo=Notion&logoColor=white&style=flat-square)
   
 #### 📱 **Contact**
-<a href="https://blog.naver.com/lacvert-" target="_blank"><img src="https://img.shields.io/badge/DevBlog-F06B66?style=flat-square&logo=Blogger&logoColor=white"/></a> <a href="mailto:lacvert3727@naver.com" target="_blank"><img src="https://img.shields.io/badge/alchemist5021@gmail.com-8B89CC?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://blog.naver.com/lacvert-" target="_blank"><img src="https://img.shields.io/badge/DevBlog-F06B66?style=flat-square&logo=Blogger&logoColor=white"/></a> <a href="mailto:lacvert3727@naver.com" target="_blank"><img src="https://img.shields.io/badge/lacvert3727@naver.com-8B89CC?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
 
