@@ -2,7 +2,7 @@
 
 
 ### Hi there! 👋
-  I'm a junior developer learning Java and Spring Framework. <br>
+  I'm a junior developer learned Java and Spring Framework. <br>
   This is a storage of what I studied and the projects I worked on. <br>
   Even if it's slow, I want to be a developer who continues to try and grow. <br>
 ✨ Thank you ✨
